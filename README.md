@@ -1,2 +1,2 @@
-# front-end-study
-my study process
+# this is the draft of research project
+research project
